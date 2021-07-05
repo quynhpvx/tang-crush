@@ -1,7 +1,7 @@
 const CONFIG = {
     introTitle: 'Thảo à!',
     introDesc: `Chỉ cần ngồi với em 
-    chút thôi, được không?
+    chút thôi, được hok?
     Nhìn vào đôi mắt em
     Thấy sao? Một thế giới màu hồng,
     btnIntro: 'ahihi',
